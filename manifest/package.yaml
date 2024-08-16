@@ -1,0 +1,8 @@
+Id: Nt.Requirements
+Name: Nt.Requirements
+Publisher: Dein Name oder Organisation
+AppMoniker: NtRequirements
+Version: 1.0.0
+License: MIT
+Description: PowerShell-Skript für die Installation von Softwareanforderungen.
+Homepage: https://github.com/DeinGitHubBenutzername/Nt.Requirements
