@@ -2,7 +2,7 @@ InstallerType: Script
 Installers:
   - Architecture: x64
     InstallerUrl: https://raw.githubusercontent.com/DeinGitHubBenutzername/Nt.Requirements/main/nt.requirements.ps1
-    InstallerSha256: <SHA256-Hash-Wert>
+    InstallerSha256: 9A7D37E7A050F53BC7F57F677A69D46BD5EA16BC9EB8FA8A9E801C0AC4A890BF
     InstallModes:
       - Interactive
       - Silent
